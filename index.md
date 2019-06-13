@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+## Charakterystyka projektu aplikacji mobilnej
+  
+Aplikacja o nazwie „Zobacz” ma wyświetlać informację na temat ciekawych miejsc w danej
+miejscowości oraz wskazać jakie warunki meteorologiczne aktualnie w niej panują. Aplikacja ma
+wyświetlać informację na temat zbytków oraz różnych atrakcji turystycznych w danym rejonie.
+Logowanie i rejestracja będzie odbywała się metodą tradycyjną. Możliwe również będzie logowanie
+się za pomocą Facebook’a z wykorzystaniem Facebook Javascript sdk.
 
-You can use the [editor on GitHub](https://github.com/Stiepek/Zobacz-mobile-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Interfejs umożliwia wybór miejscowości na kilka sposobów:
+a) podanie nazwy miejscowości,
+b) wpisanie długości i szerokości geograficznej
+c) pozycjonowanie przy użyciu GPS
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Aplikacja będzie wykorzystywać, w celu wyboru miejscowości, API dostępne na stronie:
+[https://places.cit.api.here.com](https://places.cit.api.here.com)
+Pozyskane dane lokalizacyjne zostaną wykorzystane w API dostępnej na stronie:
+[https://www.openstreetbrowser.org](https://www.openstreetbrowser.org)
+w celu wyświetlenia na mapie wskazanych obiektów.
 
-```markdown
-Syntax highlighted code block
+Aplikacja mobilna będzie posiadała dodatkową funkcjonalność, 
+czyli pobranie danych lokalizacyjnych przekazanych przez GPS
+a co za tym idzie pokazanie miejsca w którym się znajdujemy 
+zamiast wprowadzania jakichkolwiek danych jak miejścowość.
+  
+## Projekt dostępny tutaj
 
-# Header 1
-## Header 2
-### Header 3
+[Repozytorium aplikacji mobilnej]()
+  
+## Skład zespołu projektowego
 
-- Bulleted
-- List
+1. **Piotr Szczepański, 203911, KrZZIs3011Io (kierownik zespołu)**
+2. **Anna Wąsowicz,     161353, KrZZIs3011Io**
+3. **Jakub Piasecki,    203073, KrZZIs3011Io**
+4. **Patryk Materzok,   178301, KrZZIs3011Io**
+  
+## Cel oraz cechy aplikacji
 
-1. Numbered
-2. List
+![](Login.JPG)
 
-**Bold** and _Italic_ and `Code` text
+  
+## Linki do składowych projektu
 
-[Link](url) and ![Image](src)
-```
+#### Prototyp
+[Marvel prototyp aplikacji mobilnej](https://marvelapp.com/c064774)
+  
+#### Zarządzanie projektem
+[Tablica Kanban Jira](https://zobacz.atlassian.net/secure/RapidBoard.jspa?rapidView=1&projectKey=ZOB&atlOrigin=eyJpIjoiZjQwOTk2OWNhMWQ3NDliYmIyMjM5MzIwZDIzZjgxMTEiLCJwIjoiaiJ9)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Stiepek/Zobacz-mobile-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Diagram aplikacji
+[Diagram DIA](https://github.com/Stiepek/zobacz/blob/master/DiagramDIA.png)
