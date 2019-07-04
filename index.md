@@ -40,7 +40,7 @@ Celem aplikacji jest pokazanie na mapie ciekawych oraz wartych zobaczenia miejsc
 informacji odnośnie danego miejsca lub obiektu.
 
 Poniżej prezentujemy stronę logowania. Można również zalogować się przy użyciu Facebooka
-![](login.JPG)
+![]("Screen Shot 2019-07-04 at 10.39.02.png")
 
 Gdy już jesteśmy zalogowani lub zarejestrowaliśmy się na "zobacz" aplikacji.
 Wybieramy metodę wskazania miejsca.
