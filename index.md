@@ -23,8 +23,9 @@ w celu wyświetlenia na mapie wskazanych obiektów.
   
 ## Projekt dostępny tutaj
 
-[Repozytorium aplikacji mobilnej](https://github.com/zobaczteam/zobaczMobile)
-[Link do aplikacji]()  
+[Repozytorium aplikacji mobilnej](https://github.com/zobaczteam/zobaczMobile) 
+
+[Link do aplikacji](https://zobaczmobile-9543c.web.app/)  
   
 ## Skład zespołu projektowego
 
