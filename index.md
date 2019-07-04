@@ -8,10 +8,11 @@ się za pomocą Facebook’a. Będzie również posiadała dodatkową funkcjonal
 lokalizacyjnych przekazanych przez GPS, a więc co za tym idzie pokazanie miejsca w którym się 
 znajdujemy zamiast wprowadzania jakichkolwiek danych jak na przykład miejścowość.
 
-Interfejs umożliwia wybór miejscowości na kilka sposobów:
-a) podanie nazwy miejscowości
-b) pozycjonowanie przy użyciu GPS
-c) wybranie miejsca na mapie
+Interfejs umożliwia wybór miejscowości na kilka sposobów
+
+1. podanie nazwy miejscowości
+2. pozycjonowanie przy użyciu GPS
+3. wybranie miejsca na mapie
 
 Aplikacja będzie wykorzystywać, w celu wyboru miejscowości, API dostępne na stronie:
 [https://places.cit.api.here.com](https://places.cit.api.here.com)
@@ -22,7 +23,7 @@ w celu wyświetlenia na mapie wskazanych obiektów.
   
 ## Projekt dostępny tutaj
 
-[Repozytorium aplikacji mobilnej]()
+[Repozytorium aplikacji mobilnej](https://github.com/zobaczteam/zobaczMobile)
   
 ## Skład zespołu projektowego
 
