@@ -15,10 +15,8 @@ Interfejs umożliwia wybór miejscowości na kilka sposobów
 3. wybranie miejsca na mapie
 
 Aplikacja będzie wykorzystywać, w celu wyboru miejscowości, API dostępne na stronie:
-[https://places.cit.api.here.com](https://places.cit.api.here.com)
-Pozyskane dane lokalizacyjne zostaną wykorzystane w API dostępnej na stronie:
-[https://www.openstreetbrowser.org](https://www.openstreetbrowser.org)
-w celu wyświetlenia na mapie wskazanych obiektów.
+[https://overpass-api.de/](https://overpass-api.de/)
+
 
   
 ## Projekt dostępny tutaj
