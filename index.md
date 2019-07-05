@@ -37,6 +37,7 @@ Celem aplikacji jest pokazanie na mapie ciekawych oraz wartych zobaczenia miejsc
 informacji odnośnie danego miejsca lub obiektu.
 
 Poniżej prezentujemy stronę logowania. Można również zalogować się przy użyciu Facebooka
+
 ![](log.png)
 
 Gdy już jesteśmy zalogowani lub zarejestrowaliśmy się na "zobacz" aplikacji.
