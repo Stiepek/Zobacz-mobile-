@@ -1,11 +1,10 @@
 ## Charakterystyka projektu aplikacji mobilnej
   
 Aplikacja mobilna o nazwie „Zobacz” ma wyświetlać informację na temat ciekawych lokacji w danej
-miejscowości oraz wskazać jakie warunki meteorologiczne aktualnie w niej panują. Aplikacja ma
-wyświetlać informację na temat zabytków oraz różnych atrakcji turystycznych w danym rejonie.
-Logowanie i rejestracja będzie odbywała się metodą tradycyjną. Możliwe również będzie logowanie
-się za pomocą Facebook’a. Będzie również posiadała dodatkową funkcjonalność, czyli pobranie danych 
-lokalizacyjnych przekazanych przez GPS, a więc co za tym idzie pokazanie miejsca w którym się 
+miejscowości. Aplikacja mawyświetlać informację na temat zabytków oraz różnych atrakcji turystycznych 
+w danym rejonie. Logowanie i rejestracja będzie odbywała się metodą tradycyjną. Możliwe również będzie 
+logowanie się za pomocą Facebook’a. Będzie również posiadała dodatkową funkcjonalność, czyli pobranie 
+danych lokalizacyjnych przekazanych przez GPS, a więc co za tym idzie pokazanie miejsca w którym się 
 znajdujemy zamiast wprowadzania jakichkolwiek danych jak na przykład miejścowość.
 
 Interfejs umożliwia wybór miejscowości na kilka sposobów
@@ -16,6 +15,7 @@ Interfejs umożliwia wybór miejscowości na kilka sposobów
 
 Aplikacja będzie wykorzystywać, w celu wyboru miejscowości, API dostępne na stronie:
 [https://overpass-api.de/](https://overpass-api.de/)
+W celu poprawy wyglądu zostanie użyty w kilku elementach Framework jQuery Mobile.
 
 
   
@@ -41,14 +41,14 @@ Poniżej prezentujemy stronę logowania. Można również zalogować się przy u
 
 Gdy już jesteśmy zalogowani lub zarejestrowaliśmy się na "zobacz" aplikacji.
 Wybieramy metodę wskazania miejsca.
-Skupimy się teraz na opcji "Wpisz nazwę"
+![](categories.png)
 
-W kolejny polu, które się pojawia wpisujemy nazwę, później wybieramy kategorię oraz interesujący nas obiekt.
-![](kategorie.JPG)
+Można wybrać trzy metody lokalizacji. Poprzez wpisanie nazwy, wskazanie na mapie lub przy użyciu danych z GPS.
+W każdym z przypadków będziemy mieli do wyboru kategorię tego czego szukamy, oraz dostępne miejsca.
 
-Gdy już wszystko wypełniliśmy naszym oczom ukazuje się mapa w wyśrodkowanym i zaznaczonym obiektem, oraz 
-informacja o obiekcie ze strony Wikipedia, razem z odnośnikiem do pełnej treści akrtykułu.
-![](mapa.JPG)
+![](place.png)
+
+![](wawel.png)
   
 ## Linki do składowych projektu
 
